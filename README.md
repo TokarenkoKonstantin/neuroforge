@@ -290,9 +290,17 @@ API Gateway → [Bot Service, AI Service, DB Service] → Response
 
 ## 📞 Контакты
 
-- 💬 **Telegram:** @KonstantinTokar
+Свяжитесь со мной для обсуждения проектов и сотрудничества:
+
+- 💬 **Telegram:** [@KonstantinTokar](https://t.me/KonstantinTokar)
+- 📧 **Email:** konstantin.tokarenko@gmail.com
 - 🐙 **GitHub:** [TokarenkoKonstantin](https://github.com/TokarenkoKonstantin)
-- 📧 **Email:** [по запросу]
+
+**Открыт для:**
+- 🚀 Фриланс проектов (AI/ML, чат-боты)
+- 💼 Консультаций по архитектуре AI-систем
+- 🤝 Технического партнёрства
+- 📚 Менторства и code review
 
 ## 📄 Лицензия
 
