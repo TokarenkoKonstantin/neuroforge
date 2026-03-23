@@ -1,6 +1,11 @@
-# 🤖 AI Architect Portfolio
+# 🤖 Neuroforge
 
-> Портфолио AI-архитектора | Современные решения для чат-ботов и AI-систем
+![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
+![LangChain](https://img.shields.io/badge/LangChain-latest-green.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
+> Портфолио AI-архитектора | Модули и примеры для разработки AI-систем
 
 ## 👨‍💻 О себе
 
